@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083594460710",
+    "project_id": "komikomikokoma-85bf2",
+    "storage_bucket": "komikomikokoma-85bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083594460710:android:f8043d165a182b085f60e7",
+        "android_client_info": {
+          "package_name": "com.komikomikokoma.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083594460710-r4fm9huv7mks9gt5ufa9ciehjg2f7vgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ZiPfp6hSz97O-t2MbL3uvWuDHoj0z04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083594460710-r4fm9huv7mks9gt5ufa9ciehjg2f7vgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
